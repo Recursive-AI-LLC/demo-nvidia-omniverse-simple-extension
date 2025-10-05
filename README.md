@@ -1,5 +1,9 @@
 # Extension List Printer
 
+## Demo Video
+See a quick video of how this was made with Recursive AI's bot platform:
+[demo.mp4](https://coppy.me/4D/demo.mp4)
+
 ## Overview
 
 The Extension List Printer is a utility extension for Nvidia Omniverse that prints a comprehensive list of all installed extensions in the application. This is useful for debugging, documentation, and understanding what extensions are available in your Omniverse environment.
