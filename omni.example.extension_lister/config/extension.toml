@@ -1,0 +1,25 @@
+[core]
+reloadable = true
+order = 0
+
+[package]
+version = "1.0.0"
+title = "Extension List Printer"
+description = "Prints a list of all installed extensions in the Omniverse application with their details"
+category = "example"
+authors = ["Omniverse Developer"]
+repository = ""
+keywords = ["extension", "list", "debug", "utility"]
+changelog = "docs/CHANGELOG.md"
+readme = "docs/README.md"
+preview_image = ""
+icon = ""
+
+[dependencies]
+"omni.kit.app" = { version = "^1.0" }
+
+[[python.module]]
+name = "omni.example.extension_lister"
+
+[documentation]
+pages = ["docs/README.md"]
